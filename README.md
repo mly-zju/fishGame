@@ -6,7 +6,7 @@ As time goes by, the number of big fish will increase gradually. Once the little
 
 The little fish's HP will also drop as time goes by. Once HP gets to zero, the game is also over.
 
-You can play this game online: http://7xovdy.com1.z0.glb.clouddn.com/mine_fishGame/index.html
+You can play this game online: http://mly-zju.github.io/project/fishGame/demo.html
 
 Have fun!
 
